@@ -1,3 +1,5 @@
+name: Auto Start VPS on Push
+ 
 on:
   push:
     branches: [main]
