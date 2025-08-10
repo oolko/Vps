@@ -1,3 +1,5 @@
+name: Create VPS
+ 
 on:
   workflow_dispatch:          # ✅ Manual "Run workflow" button
   repository_dispatch:        # ✅ Can still be triggered by API or other workflows
